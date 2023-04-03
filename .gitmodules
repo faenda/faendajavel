@@ -1,0 +1,9 @@
+[submodule "cool2school"]
+	path = cool2school
+	url = ./cool2school
+[submodule "school2cool"]
+	path = school2cool
+	url = ./school2cool/
+[submodule "faendajavel"]
+	path = faendajavel
+	url = ./faendajavel/
